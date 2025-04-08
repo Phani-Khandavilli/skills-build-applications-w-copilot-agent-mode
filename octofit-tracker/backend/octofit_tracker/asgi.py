@@ -4,7 +4,11 @@ ASGI config for octofit_tracker project.
 It exposes the ASGI callable as a module-level variable named ``application``.
 
 For more information on this file, see
+<<<<<<< HEAD
 https://docs.djangoproject.com/en/5.2/howto/deployment/asgi/
+=======
+https://docs.djangoproject.com/en/4.1/howto/deployment/asgi/
+>>>>>>> 29ba811 (Add initial backend structure for OctoFit Tracker)
 """
 
 import os
